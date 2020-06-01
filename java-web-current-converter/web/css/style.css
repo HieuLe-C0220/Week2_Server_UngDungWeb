@@ -1,0 +1,9 @@
+body {
+    font-family: Arial,sans-serif;
+}
+form {
+    font-size: 18px;
+}
+input,label{
+    margin-bottom: 12px;
+}
